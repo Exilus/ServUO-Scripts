@@ -1,2 +1,4 @@
 # ServUO-scripts
-ServUO custom scripts I wrote
+ServUO custom scripts.
+Either written by me or ones I've edited.
+Edited scripts will have original authors full credited.
